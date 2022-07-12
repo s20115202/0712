@@ -1,0 +1,23 @@
+h1{
+    color: rgb(17, 185, 177);
+    background-color: rgb(218, 78, 23);
+}
+h2{
+    color: rgb(240, 225, 17);
+    background-color: rgb(41, 104, 177);
+}
+h3{
+    color: rgb(233, 212, 204);
+    background-color: darkgoldenrod;
+}
+h4{
+    color: firebrick;
+    background-color: lawngreen;
+}
+h5{
+    color: midnightblue;
+    background-color: hotpink;
+}
+p{
+    background-color: aqua;
+}
